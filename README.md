@@ -1,4 +1,4 @@
-# Solar Panel IOT gadjet example (JavaScript)
+# Solar Panel IOT gadget example (JavaScript)
 
 ## Overview
 
